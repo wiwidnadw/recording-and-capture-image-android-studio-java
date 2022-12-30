@@ -8,4 +8,5 @@ Since StartActivityResult was deprecated, any methode must apply for some activi
 and here our code tell how to use that with activityresultcontract
 
 Youtube video (recording video) : https://youtu.be/htzdzdO60Mo
+
 Youtube video (capture image)   : https://youtu.be/al4uSgeVLsA
