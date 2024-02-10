@@ -16,3 +16,5 @@ Youtube video (recording video) : https://youtu.be/htzdzdO60Mo
 Youtube video (capture image)   : https://youtu.be/al4uSgeVLsA
 
 Youtube video (capture image part 2) : https://www.youtube.com/watch?v=JTrxY_h0JSU
+
+Youtube video (capture image part 3) : https://youtu.be/53SaBEUi0LI
